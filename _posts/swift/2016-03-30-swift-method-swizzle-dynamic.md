@@ -8,7 +8,7 @@ description: Swift 中的方法混淆中的 dynamic 修饰符
 
 # 思考
 
-  在阅读文章[1]时我发现文中 extension 里的 func 并没有加 dynamic 修饰符，于是有了以下思考与实验。
+  在[阅读文章]时我发现文中 extension 里的 func 并没有加 dynamic 修饰符，于是有了以下思考与实验。
 
  1、extension 中的 func 能不能不加 dynamic？
 
@@ -70,5 +70,5 @@ extension TestSwizzling {
 Xcode 7.3
 
 ###### 参考来源
-
-[1][如何在 Swift 中高效地使用 Method Swizzling](http://swift.gg/2016/03/29/effective-method-swizzling-with-swift/)
+[如何在 Swift 中高效地使用 Method Swizzling]([阅读文章])
+[阅读文章]:http://swift.gg/2016/03/29/effective-method-swizzling-with-swift/
