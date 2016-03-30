@@ -54,6 +54,7 @@ extension TestSwizzling {
   }
 }
 ```
+
 # 思考成果
 
   经过我的实验，我推测
@@ -67,6 +68,4 @@ Xcode 7.3
 
 ###### 参考来源
 
-```
-1、[如何在 Swift 中高效地使用 Method Swizzling]http://swift.gg/2016/03/29/effective-method-swizzling-with-swift/
-```
+1、[如何在 Swift 中高效地使用 Method Swizzling](http://swift.gg/2016/03/29/effective-method-swizzling-with-swift/)
