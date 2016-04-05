@@ -2,7 +2,7 @@
 layout: post
 title:  使用 Swift 语言设置系统代理与 Bypass 例外
 category: Swift
-tags: Swift, Proxy, Bypass
+tags: Swift Proxy Bypass
 description: 使用 Swift 语言设置系统代理与 Bypass 例外
 ---
 
