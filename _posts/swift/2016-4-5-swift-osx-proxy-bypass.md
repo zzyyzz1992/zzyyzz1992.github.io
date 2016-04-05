@@ -11,8 +11,8 @@ description: 使用 Swift 语言设置系统代理与 Bypass 例外
 - 希望运行在 Shadowsocks 的 Global 模式下
 
 ### 解决方案
-- 参考了 [Shadowsocks X 的源码（自己 fork 了一下）]([ref1])，做了一个 OC 版的。
-- 这两天整理了一下，做了一个 Swift 版本，核心代码如下。
+- 参考了 [Shadowsocks X 的源码（自己 fork 了一下）][ref1]，做了一个 OC 版的。
+- 这两天整理了一下，[做了一个 Swift 版本](https://github.com/zzyyzz1992/ProxyBypass)，核心代码如下。
 
 ``` swift
 //
@@ -69,8 +69,9 @@ class ByPass {
 ByPass.doByPass()
 ```
 # Reference
+
 - [Apple's Authorization Services Programming Guide](https://developer.apple.com/library/mac/documentation/Security/Conceptual/authorization_concepts/02authconcepts/authconcepts.html#//apple_ref/doc/uid/TP30000995-CH205-TP9)
 
-- [Shadowsocks Source Code]([ref1])
+- [Shadowsocks Source Code][ref1]
 
 [ref1]:https://github.com/zzyyzz1992/shadowsocks-iOS/

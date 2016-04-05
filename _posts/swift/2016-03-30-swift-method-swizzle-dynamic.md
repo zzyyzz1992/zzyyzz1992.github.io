@@ -25,7 +25,7 @@ class TestSwizzling : NSObject {
     }
     func methodThree() -> Int{
       return 3
-    }   
+    }
 }
 
 extension TestSwizzling {
@@ -70,6 +70,6 @@ extension TestSwizzling {
 Xcode 7.3
 
 ###### 参考来源
-[如何在 Swift 中高效地使用 Method Swizzling]([阅读文章])
+[如何在 Swift 中高效地使用 Method Swizzling][阅读文章]
 
 [阅读文章]:http://swift.gg/2016/03/29/effective-method-swizzling-with-swift/
