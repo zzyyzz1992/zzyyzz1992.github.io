@@ -70,6 +70,7 @@ class ByPass {
 }
 ByPass.doByPass()
 ```
+
 # Reference
 
 - [Apple's Authorization Services Programming Guide](https://developer.apple.com/library/mac/documentation/Security/Conceptual/authorization_concepts/02authconcepts/authconcepts.html#//apple_ref/doc/uid/TP30000995-CH205-TP9)
